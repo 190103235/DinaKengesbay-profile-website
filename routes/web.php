@@ -1,6 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\DB;
+
+use App\Models\post;
 
 /*
 |--------------------------------------------------------------------------
@@ -36,3 +39,15 @@ Route::get('/services', function() {
 Route::get('/contact', function() {
     return view('contact');
 }); 
+
+Route::get('/post/create', function () {
+    DB::table('posts')->insert([
+        'title' => 'hobby',
+        'body' => 'my hobby is reading books'
+    ]);
+});
+
+Route::get('/post', function () {
+    $post = post::find(1);
+    return $post; 
+});
