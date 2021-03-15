@@ -1,9 +1,11 @@
-Description: 
-Hello, everyone! It is my cv website. As you see here is some pages, like home page, about me - there is some information about myself. Contact page shows contact information where I am living my phone number, gmail address and so on. Projects page display my recent projects that I made. And in services page, I showed what kind of services I can do to clients. Below you can see screenshots of all of them. I used html, css, bootsrap, laravel.
+
 
 Lab5: 
 ![7](https://user-images.githubusercontent.com/75376014/111148910-6762c380-85b6-11eb-88fc-f3e6508cef47.png)
 ![6](https://user-images.githubusercontent.com/75376014/111148932-6c277780-85b6-11eb-9ca8-afdb9ff3751a.png)
+
+Description: 
+Hello, everyone! It is my cv website. As you see here is some pages, like home page, about me - there is some information about myself. Contact page shows contact information where I am living my phone number, gmail address and so on. Projects page display my recent projects that I made. And in services page, I showed what kind of services I can do to clients. Below you can see screenshots of all of them. I used html, css, bootsrap, laravel.
 
 my cv pages:
 ![ws1](https://user-images.githubusercontent.com/75376014/108617767-2b1ec600-7443-11eb-9d91-6cb5351e580a.png)
