@@ -13,13 +13,13 @@
 </head>
 <body>
 	<div id="contact">
-		<h1 class="topic">Contact <span>info</span></h1>
+		<h1 class="topic">{{__('Contact')}} <span>{{__('info')}}</span></h1>
 
 		<div class="contact-items">
         <div class="contact-item" id="x">
           <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/phone.png"/></div>
           <div class="contact-info">
-            <h1>Phone</h1>
+            <h1>{{__('Phone')}}</h1>
             <h2>+7 707 000 00 00</h2>
             <h2>+7 700 000 00 00</h2>
           </div>
@@ -35,8 +35,8 @@
         <div class="contact-item" id="x">
           <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/map-marker.png"/></div>
           <div class="contact-info">
-            <h1>Address</h1>
-            <h2>Almaty, Kaskelen</h2>
+            <h1>{{__('Address')}}</h1>
+            <h2>{{__('Almaty, Kaskelen')}}</h2>
           </div>
         </div>
     </div>

@@ -7,7 +7,7 @@
     <title>create blog</title>
 </head>
 <body>
-    <form method="POST" action="{{route('add-client')}}" enctype="multipart/form-data">
+    <form method="POST" action="{{route('add-post')}}">
         @csrf
         <!-- <input type="text" name="title" placeholder="title">
         <input type="text" name="body" placeholder="body">
@@ -30,7 +30,7 @@
 
         <div class="form-group">
             <label for="photo">Photo:</label>
-            <input type="file" class="form-control" id="photo" name="img">
+            <input type="file" class="form-control" id="photo" name="img" multiple>
             <br>
             <button type="submit">create</button>
         </div>
