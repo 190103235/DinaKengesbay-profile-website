@@ -1,13 +1,10 @@
+Lab-9:
+in kazakh language:
 
+![kz](https://user-images.githubusercontent.com/75376014/114295711-cee23500-9ac8-11eb-9456-882b8296cd42.png)
+in russian language:
 
-Lab5: 
-![7](https://user-images.githubusercontent.com/75376014/111148910-6762c380-85b6-11eb-88fc-f3e6508cef47.png)
-![6](https://user-images.githubusercontent.com/75376014/111148932-6c277780-85b6-11eb-9ca8-afdb9ff3751a.png)
-
-Lab6:
-![8](https://user-images.githubusercontent.com/75376014/111157666-59667000-85c1-11eb-9973-e2d0e4836406.png)
-![9](https://user-images.githubusercontent.com/75376014/111157685-608d7e00-85c1-11eb-9ef2-5e3f2a571111.png)
-
+![ru](https://user-images.githubusercontent.com/75376014/114295715-d1dd2580-9ac8-11eb-9c78-00dac8d38aa5.png)
 
 Description: 
 Hello, everyone! It is my cv website. As you see here is some pages, like home page, about me - there is some information about myself. Contact page shows contact information where I am living my phone number, gmail address and so on. Projects page display my recent projects that I made. And in services page, I showed what kind of services I can do to clients. Below you can see screenshots of all of them. I used html, css, bootsrap, laravel.
